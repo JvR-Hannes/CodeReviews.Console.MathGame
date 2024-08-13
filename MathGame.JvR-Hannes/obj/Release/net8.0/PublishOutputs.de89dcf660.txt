@@ -1,5 +1,0 @@
-C:\Users\Hannes\OneDrive\Documentos\OneDrive\Desktop\MathGame\MathGame.JvR-Hannes.exe
-C:\Users\Hannes\OneDrive\Documentos\OneDrive\Desktop\MathGame\MathGame.JvR-Hannes.dll
-C:\Users\Hannes\OneDrive\Documentos\OneDrive\Desktop\MathGame\MathGame.JvR-Hannes.deps.json
-C:\Users\Hannes\OneDrive\Documentos\OneDrive\Desktop\MathGame\MathGame.JvR-Hannes.runtimeconfig.json
-C:\Users\Hannes\OneDrive\Documentos\OneDrive\Desktop\MathGame\MathGame.JvR-Hannes.pdb
