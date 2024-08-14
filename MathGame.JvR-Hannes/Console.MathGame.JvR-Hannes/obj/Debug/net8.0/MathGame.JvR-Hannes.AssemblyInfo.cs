@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathGame.JvR-Hannes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785f179522d6a110d46e2bee3b6220bd2daa707e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a34005f802da253f7da2961c40890174807ae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathGame.JvR-Hannes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathGame.JvR-Hannes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -57,6 +57,16 @@ namespace MathGame.JvR_Hannes
             return result;
         }
         internal static string GetName()
+        {
+            Console.WriteLine("Please enter your name");
+            var name = Console.ReadLine();
+            while (string.IsNullOrEmpty(name))
+            {
+                Console.WriteLine("Name can't be empty");
+                name = Console.ReadLine();
+            }
+            return name;
+        }
         internal static char GetRandomOperator(Random random)
         {
             char[] operators = { '+', '-', '*', '/' };
